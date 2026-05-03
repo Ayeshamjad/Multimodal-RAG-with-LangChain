@@ -7,4 +7,4 @@ Multi-modal Retrieval-Augmented Generation pipeline for PDFs using LangChain. Ex
 - Handles text, tables, images (base64), formulas
 - Smart chunking (`by_title`)
 - ChromaDB vector store
-- Groq / OpenAI LLM 
+- Groq / OpenAI LLM .
